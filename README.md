@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning C and Python  
   
-- ❓ Ask me about related to STM32 technologies  
-   
+- ❓ Ask me about related to STM32 technologies
+- 
+ <table><tr><td valign="top" width="30%">
 # My Skill Set  
-<table><tr><td valign="top" width="30%">
-  
+
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>  
 
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=one592&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ <table><tr><td valign="top" width="30%">
+   
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=one592&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-<br/>  
