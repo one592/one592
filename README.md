@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <div align="center">I'm one5926🚀, university graduation，embedded worker🤖</div>  
+# <div align="center">I'm one5926🚀, university graduation，embedded worker🤖</div>  
   
 - 🔭 I’m currently working on home😂😂😂  
   
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">  
 </div>  
 <br/>  
-## My Skill Set  
+# My Skill Set  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
