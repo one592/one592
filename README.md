@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
  <table><tr><td valign="top" width="60%">
    
-# <div align="center">I'm one5926🚀, university graduation，embedded worker🤖</div>  
+# <div align="center">I'm one5926🚀, embedded worker🤖</div>  
   
 - 🔭 I’m currently working on home😂😂😂  
   
