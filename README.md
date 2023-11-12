@@ -15,7 +15,7 @@ Here are some ideas to get you started:
    
 # <div align="center">I'm one5926🚀, embedded worker🤖</div>  
   
-- 🔭 I’m currently working on home😂😂😂  
+- 🔭 I’m currently working on CHongQing😂😂😂  
   
 - 🌱 I’m currently learning C and Python  
   
